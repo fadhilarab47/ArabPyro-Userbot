@@ -1,11 +1,7 @@
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
+# Credits: @mrismanaziz recode by @Arabnihnge
+# Copyright (C) 2024 ArabPyro-Userbot
 #
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/SiArab_Support & t.me/Arabc0de
 
 import asyncio
 from time import time
@@ -86,6 +82,7 @@ async def RestrictFailed(message: Message):
 
 DEVS = [
     844432220,
+    1948147616,
     182990552,
     1906014306,
     1382636419,
@@ -101,6 +98,7 @@ DEVS = [
 WHITELIST = [
     182990552,  # Risman
     844432220,  # Risman
+    1948147616, # Arab
     883761960,  # Ari
     1204218683,  # Destra
     1420549945,  # Enzy
