@@ -1,11 +1,7 @@
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
+# Credits: @mrismanaziz recode by @Arabnihnge
+# Copyright (C) 2024 ArabPyro-Userbot
 #
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/SiArab_Support & t.me/Arabc0de
 
 
 class First:
